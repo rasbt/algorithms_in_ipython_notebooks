@@ -26,10 +26,10 @@ Or even better: It would be great if you would simply fork this project and send
 
 ### Statistical analyses
 
-- Linear regression via the least squares fit method: [[ IPython nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/statistics/linregr_least_squares_fit.ipynb?create=1)] 
+- Linear regression via the least squares fit method [[ IPython nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/statistics/linregr_least_squares_fit.ipynb?create=1)] 
 
 
 
 ### Machine learning and pattern classification
 
-- Sequential Selection Algorithms: [[ IPython nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/machine_learning/sequential_selection_algorithms.ipynb?create=1)] 
+- Sequential Selection Algorithms [[ IPython nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/machine_learning/sequential_selection_algorithms.ipynb?create=1)] 
