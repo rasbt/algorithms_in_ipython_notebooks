@@ -41,3 +41,4 @@ If you have any suggestions or want to make additions, I would be very happy if 
 
 - Counting points inside a hypercube [[ IPython nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/geometry/points_in_hybercube.ipynb)] 
 
+- Vectorizing a classic `for`-loop in NumPy for calculating Euclidean distances [[ IPython nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/geometry/eucldist_numpy_vectorization.ipynb)] 
