@@ -27,7 +27,7 @@ If you have any suggestions or want to make additions, I would be very happy if 
 
 ### Statistical analyses
 
-- Linear regression via the least squares fit method [[ IPython nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/statistics/linregr_least_squares_fit.ipynb?create=1)] 
+- Linear regression via the least squares fit method [[ IPython nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/statistics/linregr_least_squares_fit.ipynb)] 
 
 - Dixon's Q test to identify outliers for small sample sizes [[ IPython nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/statistics/dixon_q_test.ipynb?create=1)] 
 
@@ -35,4 +35,9 @@ If you have any suggestions or want to make additions, I would be very happy if 
 
 ### Machine learning and pattern classification
 
-- Sequential Selection Algorithms [[ IPython nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/machine_learning/sequential_selection_algorithms.ipynb?create=1)] 
+- Sequential Selection Algorithms [[ IPython nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/machine_learning/sequential_selection_algorithms.ipynb)] 
+
+### Geometry
+
+- Counting points inside a hypercube [[ IPython nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/geometry/points_in_hybercube.ipynb)] 
+
