@@ -29,7 +29,10 @@ If you have any suggestions or want to make additions, I would be very happy if 
 
 - Linear regression via the least squares fit method [[ IPython nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/statistics/linregr_least_squares_fit.ipynb)] 
 
-- Dixon's Q test to identify outliers for small sample sizes [[ IPython nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/statistics/dixon_q_test.ipynb?create=1)] 
+- Dixon's Q test to identify outliers for small sample sizes [[ IPython nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/statistics/dixon_q_test.ipynb)]
+
+- Rejection sampling [[ IPython nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/statistics/rejection_sampling)] 
+ 
 
 
 
