@@ -21,27 +21,27 @@ If you have any suggestions or want to make additions, I would be very happy if 
 
 ### Sorting Algorithms
 
-- Sorting Algorithms [[ IPython nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/sorting/sorting_algorithms.ipynb?create=1)]
+- Sorting Algorithms [[ IPython nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/sorting/sorting_algorithms.ipynb)]
 
+### Data Structures
 
+- Singly Linked List [[ IPython nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/data-structures/singly-linked-list.ipynb)]
 
-### Statistical analyses
+### Statistical Analysis
 
-- Linear regression via the least squares fit method [[ IPython nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/statistics/linregr_least_squares_fit.ipynb)] 
+- Linear regression via the least squares fit method [[ IPython nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/statistics/linregr_least_squares_fit.ipynb)]
 
 - Dixon's Q test to identify outliers for small sample sizes [[ IPython nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/statistics/dixon_q_test.ipynb)]
 
-- Rejection sampling [[ IPython nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/statistics/rejection_sampling.ipynb)] 
- 
+- Rejection sampling [[ IPython nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/statistics/rejection_sampling.ipynb)]
 
 
+### Machine Learning
 
-### Machine learning and pattern classification
-
-- Sequential Selection Algorithms [[ IPython nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/machine_learning/sequential_selection_algorithms.ipynb)] 
+- Please see my `pattern_classification` repository at https://github.com/rasbt/pattern_classification
 
 ### Geometry
 
-- Counting points inside a hypercube [[ IPython nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/geometry/points_in_hybercube.ipynb)] 
+- Counting points inside a hypercube [[ IPython nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/geometry/points_in_hybercube.ipynb)]
 
-- Vectorizing a classic `for`-loop in NumPy for calculating Euclidean distances [[ IPython nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/geometry/eucldist_numpy_vectorization.ipynb)] 
+- Vectorizing a classic `for`-loop in NumPy for calculating Euclidean distances [[ IPython nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/geometry/eucldist_numpy_vectorization.ipynb)]
