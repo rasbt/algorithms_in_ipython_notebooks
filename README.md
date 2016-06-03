@@ -50,3 +50,4 @@ If you have any suggestions or want to make additions, I would be very happy if 
 
 - Finding the Maximum Pairwise Product [[ IPython nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/efficiency/maximum-pairwise-product.ipynb)]
 - Fibonacci Numbers [[ IPython nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/efficiency/fibonacci-tree.ipynb)]
+- Greatest Common Divisor [[ IPython nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/efficiency/greatest-common-divisor.ipynb)]
