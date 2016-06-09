@@ -46,6 +46,11 @@ If you have any suggestions or want to make additions, I would be very happy if 
 
 - Vectorizing a classic `for`-loop in NumPy for calculating Euclidean distances [[ IPython nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/geometry/eucldist_numpy_vectorization.ipynb)]
 
+
+### Essentials
+
+- Introduction to Greedy Algorithms [[ IPython nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/essentials/greedy-algorithm-intro.ipynb)]
+
 ### Efficiency
 
 - Finding the Maximum Pairwise Product [[ IPython nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/efficiency/maximum-pairwise-product.ipynb)]
