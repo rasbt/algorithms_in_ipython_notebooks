@@ -29,6 +29,8 @@ If you have any suggestions or want to make additions, I would be very happy if 
 
 - Stacks [[ IPython nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/data-structures/stacks.ipynb)]
 
+- Queues and Deques [[ IPython nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/data-structures/queues-and-deques.ipynb)]
+
 ### Statistical Analysis
 
 - Linear regression via the least squares fit method [[ IPython nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/statistics/linregr_least_squares_fit.ipynb)]
