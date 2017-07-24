@@ -21,7 +21,8 @@ If you have any suggestions or want to make additions, I would be very happy if 
 
 ### Sorting Algorithms
 
-- Sorting Algorithms [[ IPython nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/sorting/sorting_algorithms.ipynb)]
+- Selection Sort [[ IPython nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/sorting/selection_sort.ipynb)]
+- Bubble Sort [[ IPython nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/sorting/bubble_sort.ipynb)]
 
 ### Data Structures
 
