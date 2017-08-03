@@ -63,6 +63,7 @@ If you have any suggestions or want to make additions, I would be very happy if 
 - FizzBuzz [[ IPython nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/essentials/fizzbuzz.ipynb)]
 - Introduction to Greedy Algorithms [[ IPython nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/essentials/greedy-algorithm-intro.ipynb)]
 - Introduction to Divide-and-Conquer Algorithms [[ IPython nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/essentials/divide-and-conquer-algorithm-intro.ipynb)]
+- Recursion Examples [[ IPython nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/essentials/recursion-examples.ipynb)]
 
 ### Efficiency
 
