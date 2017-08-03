@@ -21,30 +21,30 @@ If you have any suggestions or want to make additions, I would be very happy if 
 
 ### Sorting Algorithms
 
-- Selection Sort [[ IPython nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/sorting/selection_sort.ipynb)]
-- Bubble Sort [[ IPython nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/sorting/bubble_sort.ipynb)]
+- Selection Sort [[ Jupyter nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/sorting/selection_sort.ipynb)]
+- Bubble Sort [[ Jupyter nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/sorting/bubble_sort.ipynb)]
 
 ### Data Structures
 
-- Bloom Filters [[ IPython nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/data-structures/bloom-filter.ipynb)] 
+- Bloom Filters [[ Jupyter nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/data-structures/bloom-filter.ipynb)] 
 
-- Singly Linked List [[ IPython nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/data-structures/singly-linked-list.ipynb)]
+- Singly Linked List [[ Jupyter nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/data-structures/singly-linked-list.ipynb)]
 
-- Stacks [[ IPython nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/data-structures/stacks.ipynb)]
+- Stacks [[ Jupyter nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/data-structures/stacks.ipynb)]
 
-- Queues and Deques [[ IPython nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/data-structures/queues-and-deques.ipynb)]
+- Queues and Deques [[ Jupyter nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/data-structures/queues-and-deques.ipynb)]
 
 ### Search Algorithms
 
-- Binary Search [[ IPython nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/search/binary_search.ipynb)] 
+- Binary Search [[ Jupyter nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/search/binary_search.ipynb)] 
 
 ### Statistical Analysis
 
-- Linear regression via the least squares fit method [[ IPython nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/statistics/linregr_least_squares_fit.ipynb)]
+- Linear regression via the least squares fit method [[ Jupyter nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/statistics/linregr_least_squares_fit.ipynb)]
 
-- Dixon's Q test to identify outliers for small sample sizes [[ IPython nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/statistics/dixon_q_test.ipynb)]
+- Dixon's Q test to identify outliers for small sample sizes [[ Jupyter nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/statistics/dixon_q_test.ipynb)]
 
-- Rejection sampling [[ IPython nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/statistics/rejection_sampling.ipynb)]
+- Rejection sampling [[ Jupyter nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/statistics/rejection_sampling.ipynb)]
 
 
 ### Machine Learning
@@ -53,20 +53,20 @@ If you have any suggestions or want to make additions, I would be very happy if 
 
 ### Geometry
 
-- Counting points inside a hypercube [[ IPython nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/geometry/points_in_hybercube.ipynb)]
+- Counting points inside a hypercube [[ Jupyter nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/geometry/points_in_hybercube.ipynb)]
 
-- Vectorizing a classic `for`-loop in NumPy for calculating Euclidean distances [[ IPython nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/geometry/eucldist_numpy_vectorization.ipynb)]
+- Vectorizing a classic `for`-loop in NumPy for calculating Euclidean distances [[ Jupyter nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/geometry/eucldist_numpy_vectorization.ipynb)]
 
 
 ### Essentials
 
-- FizzBuzz [[ IPython nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/essentials/fizzbuzz.ipynb)]
-- Introduction to Greedy Algorithms [[ IPython nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/essentials/greedy-algorithm-intro.ipynb)]
-- Introduction to Divide-and-Conquer Algorithms [[ IPython nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/essentials/divide-and-conquer-algorithm-intro.ipynb)]
-- Recursion Examples [[ IPython nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/essentials/recursion-examples.ipynb)]
+- FizzBuzz [[ Jupyter nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/essentials/fizzbuzz.ipynb)]
+- Introduction to Greedy Algorithms [[ Jupyter nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/essentials/greedy-algorithm-intro.ipynb)]
+- Introduction to Divide-and-Conquer Algorithms [[ Jupyter nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/essentials/divide-and-conquer-algorithm-intro.ipynb)]
+- Recursion Examples [[ Jupyter nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/essentials/recursion-examples.ipynb)]
 
 ### Efficiency
 
-- Finding the Maximum Pairwise Product [[ IPython nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/efficiency/maximum-pairwise-product.ipynb)]
-- Fibonacci Numbers [[ IPython nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/efficiency/fibonacci-tree.ipynb)]
-- Greatest Common Divisor [[ IPython nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/efficiency/greatest-common-divisor.ipynb)]
+- Finding the Maximum Pairwise Product [[ Jupyter nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/efficiency/maximum-pairwise-product.ipynb)]
+- Fibonacci Numbers [[ Jupyter nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/efficiency/fibonacci-tree.ipynb)]
+- Greatest Common Divisor [[ Jupyter nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/efficiency/greatest-common-divisor.ipynb)]
