@@ -23,6 +23,7 @@ If you have any suggestions or want to make additions, I would be very happy if 
 
 - Selection Sort [[ Jupyter nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/sorting/selection_sort.ipynb)]
 - Bubble Sort [[ Jupyter nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/sorting/bubble_sort.ipynb)]
+- QuickSort [[ Jupyter nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/sorting/quicksort.ipynb)]
 
 ### Data Structures
 
@@ -37,6 +38,8 @@ If you have any suggestions or want to make additions, I would be very happy if 
 ### Search Algorithms
 
 - Binary Search [[ Jupyter nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/search/binary_search.ipynb)] 
+
+- Breadth-First Search [[ Jupyter nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/search/breadth-first-search)] 
 
 ### Statistical Analysis
 
