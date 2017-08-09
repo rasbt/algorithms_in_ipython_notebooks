@@ -36,6 +36,7 @@ If you have any suggestions or want to make additions, I would be very happy if 
 
 - Binary Search [[ GitHub ](ipython_nbs/search/binary_search.ipynb)] [[ Jupyter nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/search/binary_search.ipynb)] 
 - Breadth-First Search [[ GitHub ](ipython_nbs/search/breadth-first-search.ipynb)] [[ Jupyter nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/search/breadth-first-search)] 
+- Dijkstra's Algorithm [[ GitHub ](ipython_nbs/search/dijkstra-algorithm.ipynb)] [[ Jupyter nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/search/dijkstra-algorithm.ipynb)] 
 
 ### Statistical Analysis
 
