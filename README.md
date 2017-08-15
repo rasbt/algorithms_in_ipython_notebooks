@@ -47,6 +47,7 @@ If you have any suggestions or want to make additions, I would be very happy if 
 
 ### Data Structures
 
+- Implementing a Simple Hash Table [[ GitHub ](ipython_nbs/data-structures/hashtable-1.ipynb)] [[ Jupyter nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/data-structures/hashtable-1.ipynb)] 
 - Bloom Filters [[ GitHub ](ipython_nbs/data-structures/bloom-filter.ipynb)] [[ Jupyter nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/data-structures/bloom-filter.ipynb)] 
 - Singly Linked List [[ GitHub ](ipython_nbs/data-structures/singly-linked-list.ipynb)] [[ Jupyter nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/data-structures/singly-linked-list.ipynb)]
 - Stacks [[ GitHub ](ipython_nbs/data-structures/stacks.ipynb)] [[ Jupyter nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/data-structures/stacks.ipynb)]
